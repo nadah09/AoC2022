@@ -30,5 +30,5 @@ def part2(inputs):
 print("REAL", part1(inputs))
 print("MINI", part1(miniinputs))
 
-print("REAL", part2(miniinputs))
-print("MINI", part2(inputs))
+print("REAL", part2(inputs))
+print("MINI", part2(miniinputs))
